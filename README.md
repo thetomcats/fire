@@ -1,3 +1,3 @@
 # fire
 It’s not detailed
-now you're different from the master
+And now you're different from the master
